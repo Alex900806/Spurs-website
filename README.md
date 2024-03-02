@@ -1,6 +1,6 @@
 # Spurs 球隊介紹網站
 
-這是我在初學網頁開發時製作的第一個網站，完成於 2023/10/20
+這是我在初學網頁開發時製作的第一個網站，完成於 2023/10/20。
 
 ## 功能
 
@@ -14,8 +14,9 @@ HTML, CSS
 
 ## 學習成果
 
-- 學習基礎的 HTML 架構，了解其每個常用標籤的意義
+- 學習基礎的 HTML 架構，了解每個常用標籤的意義
 - 學習基礎的 CSS 寫法和屬性，包含 display、justify-content、align-items 等
+- 學習使用 Google Font 的字體，和從 icon8 與 fontaweasome 找尋適合的 icon
 
 ## Demo
 
