@@ -18,7 +18,7 @@ HTML, CSS
 - 學習基礎的 CSS 寫法和屬性，包含 display、justify-content、align-items 等
 - 學習使用 Google Font 的字體，和從 icon8 與 fontaweasome 找尋適合的 icon
 
-## 實際頁面｀
+## 實際頁面
 
 ![image](https://github.com/Alex900806/Spurs-website/blob/main/demo1.png)
 ![image](https://github.com/Alex900806/Spurs-website/blob/main/demo2.png)
